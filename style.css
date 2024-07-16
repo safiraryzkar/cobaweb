@@ -1,0 +1,1099 @@
+.tentang-kami {
+  background-color: #fffefc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tentang-kami .div {
+  background-color: #fffefc;
+  overflow: hidden;
+  width: 1500px;
+  height: 3638px;
+  position: relative;
+}
+
+.tentang-kami .footer {
+  position: absolute;
+  width: 1518px;
+  height: 572px;
+  top: 3066px;
+  left: 0;
+  background-color: transparent;
+}
+
+.tentang-kami .overlap-group {
+  position: relative;
+  width: 1500px;
+  height: 572px;
+  background-color: #f8f8f8;
+}
+
+.tentang-kami .kantor-pusat-jl {
+  position: absolute;
+  width: 391px;
+  top: 103px;
+  left: 956px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.tentang-kami .text-wrapper {
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.tentang-kami .span {
+  text-decoration: underline;
+}
+
+.tentang-kami .text-wrapper-2 {
+  top: 103px;
+  position: absolute;
+  left: 542px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.tentang-kami .telp {
+  position: absolute;
+  top: 135px;
+  left: 542px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 45px;
+}
+
+.tentang-kami .telp-2 {
+  position: absolute;
+  top: 333px;
+  left: 542px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 45px;
+}
+
+.tentang-kami .text-wrapper-3 {
+  top: 300px;
+  position: absolute;
+  left: 542px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-4 {
+  position: absolute;
+  width: 117px;
+  top: 24px;
+  left: 956px;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #404040;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 72px;
+}
+
+.tentang-kami .tentang-kami-partner {
+  position: absolute;
+  width: 391px;
+  top: 103px;
+  left: 48px;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.tentang-kami .text-wrapper-5 {
+  width: 266px;
+  top: 24px;
+  left: 48px;
+  font-family: "DM Serif Display", Helvetica;
+  color: #404040;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 72px;
+  position: absolute;
+  font-weight: 400;
+}
+
+.tentang-kami .text-wrapper-6 {
+  position: absolute;
+  top: 23px;
+  left: 542px;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #404040;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .contact {
+  position: absolute;
+  width: 117px;
+  height: 72px;
+  top: 2455px;
+  left: 815px;
+}
+
+.tentang-kami .contact-kami-wrapper {
+  position: relative;
+  width: 119px;
+  height: 72px;
+}
+
+.tentang-kami .contact-kami {
+  position: absolute;
+  width: 117px;
+  top: 0;
+  left: 0;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 76px;
+  white-space: nowrap;
+}
+
+.tentang-kami .overlap {
+  position: absolute;
+  width: 1500px;
+  height: 641px;
+  top: 100px;
+  left: 0;
+  background-image: url(./img/foto-33e75ff09dd601bbe69f351039152189-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.tentang-kami .text {
+  position: absolute;
+  width: 100%;
+  top: 176px;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 56px;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .content {
+  position: absolute;
+  width: 930px;
+  height: 99px;
+  top: 270px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.tentang-kami .sub-content {
+  width: 100%;
+}
+
+.tentang-kami .p {
+  width: 100%;
+  font-family: "Jost", Helvetica;
+  color: #000000;
+  font-size: 22px;
+  text-align: justify;
+  letter-spacing: 0.22px;
+  line-height: 33px;
+  position: relative;
+  font-weight: 400;
+}
+.tentang-kami .overlap-2 {
+  position: absolute;
+  width: 708px;
+  height: 560px;
+  top: 2506px;
+  left: 0;
+}
+
+.tentang-kami .rectangle {
+  position: absolute;
+  width: 439px;
+  height: 560px;
+  top: 0;
+  left: 0;
+}
+
+.tentang-kami .foto {
+  position: absolute;
+  width: 600px;
+  height: 362px;
+  top: 96px;
+  left: 108px;
+  object-fit: cover;
+}
+
+.tentang-kami .text-2 {
+  width: 90px;
+  top: 1346px;
+  left: 234px;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .frame {
+  position: absolute;
+  width: 930px;
+  height: 250px;
+  top: 821px;
+  left: 285px;
+  background-color: #005a70;
+  border-radius: 10px;
+}
+
+.tentang-kami .group {
+  position: absolute;
+  width: 75px;
+  height: 65px;
+  top: 59px;
+  left: 429px;
+}
+
+.tentang-kami .text-3 {
+  width: 73px;
+  top: 0;
+  left: 0;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #fffefc;
+  font-size: 36px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-7 {
+  position: absolute;
+  width: 790px;
+  top: 135px;
+  left: 70px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-4 {
+  width: 114px;
+  top: 1737px;
+  left: -415px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 56px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-8 {
+  position: absolute;
+  width: 683px;
+  top: 1223px;
+  left: 527px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #404040;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-wrapper-9 {
+  position: absolute;
+  width: 683px;
+  top: 1361px;
+  left: 527px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-wrapper-10 {
+  position: absolute;
+  width: 688px;
+  top: 1477px;
+  left: 527px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-11 {
+  position: absolute;
+  width: 40px;
+  top: 1246px;
+  left: 446px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #005a70;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-12 {
+  top: 1371px;
+  position: absolute;
+  width: 49px;
+  left: 442px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #005a70;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-wrapper-13 {
+  top: 1477px;
+  position: absolute;
+  width: 49px;
+  left: 442px;
+  font-family: "Jost", Helvetica;
+  font-weight: 500;
+  color: #005a70;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: absolute;
+  width: 532px;
+  height: 395px;
+  top: 2621px;
+  left: 815px;
+}
+
+.tentang-kami .text-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-wrapper-14 {
+  font-weight: 600;
+}
+
+.tentang-kami .text-wrapper-15 {
+  font-family: "Jost", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-6 {
+  width: 426px;
+  top: 1676px;
+  left: 537px;
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.tentang-kami .overlap-wrapper {
+  position: absolute;
+  width: 969px;
+  height: 433px;
+  top: 1803px;
+  left: 270px;
+}
+
+.tentang-kami .overlap-3 {
+  position: relative;
+  width: 959px;
+  height: 433px;
+}
+
+.tentang-kami .tempimagehn {
+  position: absolute;
+  width: 800px;
+  height: 433px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.tentang-kami .perseroan-terbatas {
+  position: absolute;
+  width: 355px;
+  top: 307px;
+  left: 225px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.tentang-kami .text-wrapper-16 {
+  font-weight: 500;
+}
+
+.tentang-kami .text-wrapper-17 {
+  font-weight: 700;
+}
+
+.tentang-kami .text-wrapper-18 {
+  position: absolute;
+  width: 355px;
+  top: 22px;
+  left: 520px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-19 {
+  position: absolute;
+  width: 355px;
+  top: 87px;
+  left: 520px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-20 {
+  position: absolute;
+  width: 355px;
+  top: 144px;
+  left: 520px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.tentang-kami .text-wrapper-21 {
+  position: absolute;
+  width: 355px;
+  top: 204px;
+  left: 520px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000cc;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #fffefc;
+  box-shadow: 0px 4px 5px #00000005;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.navbar .menu-item {
+  font-family: "DM Serif Display", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+.KAP-TBY-logo-kop {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 180px;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Styling for hamburger menu icon */
+.icon {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #000; /* Warna ikon hitam */
+  font-size: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: none; /* Menyembunyikan menu utama pada mode kecil */
+  }
+
+  .header {
+    height: 70px; /* Mengurangi tinggi header untuk mode kecil */
+  }
+
+  .KAP-TBY-logo-kop {
+    width: 150px; /* Mengurangi ukuran logo untuk mode kecil */
+  }
+
+  .icon {
+    display: block; /* Menampilkan ikon hamburger menu pada mode kecil */
+  }
+  .navbar.responsive {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+    background-color: #fffefc;
+    box-shadow: 0px 4px 5px #00000005;
+  }
+
+  .navbar.responsive .menu-item {
+    padding: 15px 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd; /* Garis pemisah antar menu */
+  }
+  .tentang-kami .overlap {
+    width: 100%; /* Adjust to fit smaller screens */
+    height: 300px; /* Adjust to maintain aspect ratio */
+    top: 0;
+    background-image: url(./img/foto-33e75ff09dd601bbe69f351039152189-1.png);
+    background-size: cover;
+    background-position: 100%;
+  }
+
+  .tentang-kami .text {
+    width: 100%;
+    font-weight: 400;
+    top: 70px;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    line-height: 72px;
+    margin-top: 20px; /* Adjust as needed for spacing from the top */
+  }
+
+  .tentang-kami .content {
+    width: 100%; /* Adjust to fit smaller screens */
+    margin-top: 10px; /* Adjust as needed for spacing from .text */
+    top: 150px;
+  }
+
+  .tentang-kami .sub-content {
+    width: 100%;
+    top: 0px;
+  }
+
+  .tentang-kami .p {
+    width: 90%; /* Adjust to fit smaller screens */
+    font-family: "Jost", Helvetica;
+    color: #000000;
+    font-size: 12px;
+    top: 0px;
+    text-align: justify;
+    line-height: 25px;
+    margin: 0 auto; /* Centers the paragraph horizontally */
+    font-weight: 400;
+  }
+  .tentang-kami .overlap-2 {
+    position: absolute;
+    width: 708px;
+    height: 560px;
+    top: 1300px;
+    left: 0;
+  }
+  .tentang-kami .rectangle {
+    position: absolute;
+    width: 200px;
+    height: 260px;
+    top: 0;
+    left: 0;
+  }
+  .tentang-kami .foto {
+    position: absolute;
+    width: 300px;
+    height: 162px;
+    top: 50px;
+    left: 108px;
+    object-fit: cover;
+  }
+  .tentang-kami .contact {
+    position: absolute;
+    width: 10px;
+    height: 12px;
+    top: 1200px;
+    left: 100px;
+  }
+  
+  .tentang-kami .contact-kami-wrapper {
+    position: relative;
+    width: 10px;
+    height: 12px;
+  }
+  
+  .tentang-kami .contact-kami {
+    position: absolute;
+    width: 10px;
+    top: 0;
+    left: 108px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 76px;
+    white-space: nowrap;
+  }
+  .tentang-kami .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    position: absolute;
+    width: 500px;
+    height: 395px;
+    top: 1600px;
+    left: 30px;
+  }
+  
+  .tentang-kami .text-5 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 0px;
+  }
+  
+  .tentang-kami .text-wrapper-14 {
+    font-weight: 600;
+  }
+  
+  .tentang-kami .text-wrapper-15 {
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 0px;
+  }
+  .tentang-kami .frame {
+    position: relative;
+    width: 400px;
+    height: 150px;
+    top: 350px;
+    left: 50px;
+    background-color: #005a70;
+    border-radius: 10px;
+  }
+  
+  .tentang-kami .group {
+    position: relative;
+    width: 75px;
+    height: 65px;
+    top: 0px;
+    left: 20px;
+  }
+  
+  .tentang-kami .text-3 {
+    width: auto;
+    top: 10px;
+    left: 170px;
+    font-family: "DM Serif Display", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+    font-size: 12px;
+    position: center;
+    letter-spacing: 0;
+    line-height: 72px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .text-wrapper-7 {
+    position: absolute;
+    width: 300px;
+    top: 70px;
+    left: 50px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 15px;
+  }
+  .tentang-kami .text-2 {
+    width: 90px;
+    top: 570px;
+    left: 234px;
+    font-family: "DM Serif Display", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: 16px;
+    white-space: nowrap;
+  }
+  .tentang-kami .text-4 {
+    width: 114px;
+    top: 1737px;
+    left: 100px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 56px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: 72px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .text-wrapper-8 {
+    position: absolute;
+    width: 370px;
+    top: 605px;
+    left: 80px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #404040;
+    font-size: 10px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 13px;
+  }
+  
+  .tentang-kami .text-wrapper-9 {
+    position: absolute;
+    width: 370px;
+    top: 668px;
+    left: 80px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #000000cc;
+    font-size: 10px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 13px;
+  }
+  
+  .tentang-kami .text-wrapper-10 {
+    position: absolute;
+    width: 370px;
+    top: 708px;
+    left: 80px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #000000cc;
+    font-size: 10px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 13px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .text-wrapper-11 {
+    position: absolute;
+    width: 40px;
+    top: 600px;
+    left: 50px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #005a70;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .text-wrapper-12 {
+    top: 670px;
+    position: absolute;
+    width: 40px;
+    left: 50px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #005a70;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 12px;
+  }
+  
+  .tentang-kami .text-wrapper-13 {
+    top: 710px;
+    position: absolute;
+    width: 49px;
+    left: 50px;
+    font-family: "Jost", Helvetica;
+    font-weight: 500;
+    color: #005a70;
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 12px;
+  }
+  .tentang-kami .text-6 {
+    width: 426px;
+    top: 750px;
+    left: 180px;
+    font-family: "DM Serif Display", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: 72px;
+    white-space: nowrap;
+  }
+  .tentang-kami .footer {
+    position: absolute;
+    width: 1518px;
+    height: 572px;
+    top: 1900px;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .tentang-kami .overlap-group {
+    position: relative;
+    width: 1500px;
+    height: 572px;
+    background-color: #f8f8f8;
+  }
+  
+  .tentang-kami .kantor-pusat-jl {
+    position: absolute;
+    width: 391px;
+    top: 700px;
+    left: 48px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .tentang-kami .text-wrapper {
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .tentang-kami .span {
+    text-decoration: underline;
+  }
+  
+  .tentang-kami .text-wrapper-2 {
+    top: 340px;
+    position: absolute;
+    left: 48px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .telp {
+    position: absolute;
+    top: 135px;
+    left: 48px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 45px;
+  }
+  
+  .tentang-kami .telp-2 {
+    position: absolute;
+    top: 48px;
+    left: 542px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 45px;
+  }
+  
+  .tentang-kami .text-wrapper-3 {
+    top: 300px;
+    position: absolute;
+    left: 542px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .tentang-kami .text-wrapper-4 {
+    position: absolute;
+    width: 117px;
+    top: 24px;
+    left: 956px;
+    font-family: "DM Serif Display", Helvetica;
+    font-weight: 400;
+    color: #404040;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 72px;
+  }
+  
+  .tentang-kami .tentang-kami-partner {
+    position: absolute;
+    width: 391px;
+    top: 80px;
+    left: 48px;
+    font-family: "Jost", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .tentang-kami .text-wrapper-5 {
+    width: 266px;
+    top: 24px;
+    left: 48px;
+    font-family: "DM Serif Display", Helvetica;
+    color: #404040;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 72px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  .tentang-kami .text-wrapper-6 {
+    position: absolute;
+    top: 270px;
+    left: 48px;
+    font-family: "DM Serif Display", Helvetica;
+    font-weight: 400;
+    color: #404040;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 72px;
+    white-space: nowrap;
+  }
+}
